@@ -1,6 +1,0 @@
-unzip chinese-mandarin-me.zip
-cp -a chinese/. .
-rm -rf chinese chinese-mandarin-me.zip
-git add .
-git commit -m "Build Mandarin Me Chinese learning app"
-git push
